@@ -1,0 +1,15 @@
+
+1 - Acessar: https://classroom.google.com/
+2 - Acessem com e-mail particular, 
+não pode ser o da uninove
+
+
+ - mkdir é criar pasta 
+ - git init criar repositório
+ - touch "nome" criar um arquivo. 
+ - git add adicionar o arquivo no monitoramento 
+ 
+   git . 
+   git "nome do arquivo"
+   
+   
